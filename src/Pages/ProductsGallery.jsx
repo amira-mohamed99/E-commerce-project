@@ -26,7 +26,6 @@ export default function ProductsGallery() {
   return (
     <Container className='pt-5'>
       <Row xs={1} md={3}  lg={4} className="g-4">
-      {/* {Array.from({ length: 4 }).map((_, idx) => ( */}
       {  productlist.map ((item) =>
         <Col key={item.id}>
           <NewCard 
@@ -37,7 +36,6 @@ export default function ProductsGallery() {
               imgUrl={item.imgUrl}/>
         </Col>
         )}
-      {/* ))} */}
     </Row>
     </Container>
   );

@@ -13,13 +13,13 @@ export default function NewNavbar(){
     <Navbar bg="light" data-bs-theme="light">
     <Container>
       <Navbar.Brand as={Link} to='/'>GALLERY</Navbar.Brand>
-      <Nav className="me-aut  justify-content-end">
+      <Nav className="me-aut  justify-content-end mt-2">
         <Nav.Link as={Link} to='/'>Home</Nav.Link>
         <Nav.Link as={Link} to='Wishlist'>Wish List</Nav.Link>
         <Nav.Link as={Link} to='Login'>Login</Nav.Link>
         {/* <Nav.Link as={Link} to='Cart'>Cart</Nav.Link> */}
         <Button as={Link} to='Cart' variant="outline-primary" className="rounded-circle" style={{width:"3rem" ,height:"3rem" ,position:"relative"}}>
-        <svg
+        <svg className='mt-2'
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 576 512"
               fill="currentColor"

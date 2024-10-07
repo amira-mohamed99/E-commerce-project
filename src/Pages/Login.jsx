@@ -3,11 +3,12 @@ import Col from 'react-bootstrap/Col';
 import Form from 'react-bootstrap/Form';
 import Row from 'react-bootstrap/Row';
 import Button from 'react-bootstrap/Button';
+import "./Login.css";
 
 function Login() {
   return (
-    <Container className="mt-4">
-      <Form className="border p-4 rounded">
+    <Container className="mt-4 d-flex justify-content-center">
+      <Form className="border p-4 rounded logform">
         <Form.Group as={Row} className="mb-3" controlId="exampleForm.ControlInput1">
           <Form.Label column sm="2">
             Email
