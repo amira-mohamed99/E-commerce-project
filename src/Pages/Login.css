@@ -1,4 +1,15 @@
 .logform{
     width: 100%;
     max-width: 500px;
+    position: relative;
+}
+.or p {
+    background-color:white;
+    width: 10%;
+    justify-self:center;
+    position: relative;
+    z-index: 1;
+}
+hr{
+    margin-top: -28px;
 }

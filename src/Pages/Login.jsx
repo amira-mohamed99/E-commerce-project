@@ -4,6 +4,7 @@ import Form from 'react-bootstrap/Form';
 import Row from 'react-bootstrap/Row';
 import Button from 'react-bootstrap/Button';
 import "./Login.css";
+import { Link } from 'react-router-dom';
 
 function Login() {
   return (
@@ -26,6 +27,13 @@ function Login() {
           </Col>
         </Form.Group>
         <Button variant="primary" type="submit">Login</Button>
+        <div className="or">
+          <p>
+            OR
+          </p>
+        </div>
+        <hr></hr>
+        <Button variant="primary" class="btn btn-outline-primary" as={Link} to='/Singnup'>Sign Up</Button>
       </Form>
     </Container>
   );

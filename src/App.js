@@ -11,6 +11,7 @@ import Wishlist from './Pages/Wishlist';
 import Login from './Pages/Login';
 import Container from 'react-bootstrap/esm/Container';
 import ShoppingCartProvider from './context/ShoppingCartContext';
+import { Singnup } from './Pages/Singnup';
 
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
        <Route path='Wishlist' element={<Wishlist/>} />
         {/* {!user &&  <Route path='Login' element={<Login/>} />} */}
        <Route path='Login' element={<Login/>} />
+       <Route path='Singnup' element={<Singnup/>}/>
        <Route path='*' element={<Container>Not Found!</Container>} />
       </Routes>
     </div>
