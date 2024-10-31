@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/amira-mohamed99/E-commerce-project.git/static/css/main.a141a413.css",
-    "main.js": "/amira-mohamed99/E-commerce-project.git/static/js/main.2c117c3f.js",
-    "static/js/453.ed3810f9.chunk.js": "/amira-mohamed99/E-commerce-project.git/static/js/453.ed3810f9.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/amira-mohamed99/E-commerce-project.git/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/amira-mohamed99/E-commerce-project.git/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "index.html": "/amira-mohamed99/E-commerce-project.git/index.html",
-    "main.a141a413.css.map": "/amira-mohamed99/E-commerce-project.git/static/css/main.a141a413.css.map",
-    "main.2c117c3f.js.map": "/amira-mohamed99/E-commerce-project.git/static/js/main.2c117c3f.js.map",
-    "453.ed3810f9.chunk.js.map": "/amira-mohamed99/E-commerce-project.git/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/E-commerce-project/static/css/main.0b240c14.css",
+    "main.js": "/E-commerce-project/static/js/main.b958bec6.js",
+    "static/js/453.ed3810f9.chunk.js": "/E-commerce-project/static/js/453.ed3810f9.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/E-commerce-project/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/E-commerce-project/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/E-commerce-project/index.html",
+    "main.0b240c14.css.map": "/E-commerce-project/static/css/main.0b240c14.css.map",
+    "main.b958bec6.js.map": "/E-commerce-project/static/js/main.b958bec6.js.map",
+    "453.ed3810f9.chunk.js.map": "/E-commerce-project/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a141a413.css",
-    "static/js/main.2c117c3f.js"
+    "static/css/main.0b240c14.css",
+    "static/js/main.b958bec6.js"
   ]
 }
