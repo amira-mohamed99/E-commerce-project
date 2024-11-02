@@ -1,8 +1,8 @@
 {
-  "/": "https://github.com/amira-mohamed99/E-commerce-project.git",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "/": "https://amira-mohamed99.github.io/E-commerce-project",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
